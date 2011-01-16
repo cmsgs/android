@@ -167,6 +167,7 @@
   <project path="hardware/gps/nmea" name="cmsgs/android_system_hardware_gps_nmea" remote="github" revision="master" />
 
   <project path="kernel-msm" name="CyanogenMod/cm-kernel" remote="github" revision="android-msm-2.6.35-unified" />
+  <project path="kernel-tab" name="cmsgs/galaxytab_kernel" remote="github" revision="master" />
 
   <project path="initramfs/galaxytab" name="cmsgs/android_initramfs_galaxytab" remote="github" revision="master" />
 
