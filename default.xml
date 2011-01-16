@@ -30,7 +30,8 @@
   <project path="device/htc/bravo" name="CyanogenMod/android_device_htc_bravo" remote="github" />
   <project path="device/htc/bravoc" name="CyanogenMod/android_device_htc_bravoc" remote="github" />
   <project path="device/htc/buzz" name="CyanogenMod/android_device_htc_buzz" remote="github" />
-  <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" remote="github" />
+  <project path="device/htc/common" name="noobnl/android_device_htc_common" remote="github" />
+  <project path="device/samsung/common" name="noobnl/android_device_samsung_common" remote="github" />
   <project path="device/htc/dream_sapphire" name="CyanogenMod/android_device_htc_dream_sapphire" remote="github" />
   <project path="device/htc/espresso" name="CyanogenMod/android_device_htc_espresso" remote="github" />
   <project path="device/htc/glacier" name="CyanogenMod/android_device_htc_glacier" remote="github" />
