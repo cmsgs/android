@@ -31,7 +31,7 @@
   <project path="device/htc/bravoc" name="CyanogenMod/android_device_htc_bravoc" remote="github" />
   <project path="device/htc/buzz" name="CyanogenMod/android_device_htc_buzz" remote="github" />
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" remote="github" />
-  <project path="device/samsung/common" name="noobnl/android_device_samsung_common" remote="github" revision="master" />
+  <project path="device/samsung/common" name="cmsgs/android_device_samsung_common" remote="github" revision="master" />
   <project path="device/htc/dream_sapphire" name="CyanogenMod/android_device_htc_dream_sapphire" remote="github" />
   <project path="device/htc/espresso" name="CyanogenMod/android_device_htc_espresso" remote="github" />
   <project path="device/htc/glacier" name="CyanogenMod/android_device_htc_glacier" remote="github" />
@@ -61,7 +61,7 @@
 
   <project path="external/alsa-lib" name="platform/external/alsa-lib" revision="master" />
   <project path="external/alsa-utils" name="platform/external/alsa-utils" revision="master" />
-  <project path="external/apache-http" name="codeworkx/platform_external_apache-http" remote="github" revision="master" />
+  <project path="external/apache-http" name="cmsgs/platform_external_apache-http" remote="github" revision="master" />
   <project path="external/astl" name="platform/external/astl" />
   <project path="external/bash" name="CyanogenMod/android_external_bash" remote="github" revision="bash-4.1-froyo" />
   <project path="external/bison" name="platform/external/bison" />
