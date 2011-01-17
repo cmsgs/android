@@ -225,6 +225,7 @@
   <project path="device/samsung/vibrant" name="cmsgs/android_device_samsung_vibrant" remote="github" />
   <project path="device/samsung/epic" name="cmsgs/android_device_samsung_epic" remote="github" />
   <project path="device/samsung/galaxytab" name="cmsgs/android_device_samsung_galaxytab" remote="github" />
+  <project path="device/samsung/common" name="cmsgs/android_device_samsung_common" remote="github" revision="master" />
   -->
   <project path="vendor/samsung" name="cmsgs/proprietary_vendor_samsung" remote="github" revision="froyo" />
 
