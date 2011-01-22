@@ -223,7 +223,6 @@
 
   <project path="vendor/cyanogen" name="cmsgs/android_vendor_cyanogen" remote="github" />
 
-<<<<<<< HEAD
   <!-- CM Samsung Galaxy S series repos
   <project path="device/samsung/captivate" name="cmsgs/android_device_samsung_captivate" remote="github" />
   <project path="device/samsung/fascinate" name="cmsgs/android_device_samsung_fascinate" remote="github" />
@@ -240,7 +239,7 @@
   <project path="vendor/samsung" name="cmsgs/proprietary_vendor_samsung" remote="github" revision="froyo" />
 
   <project path="android" name="cmsgs/android" remote="github" />
-=======
+
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="refs/heads/master" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="themes-platform-vendor-tmobile-libs-com.tmobile.themes" remote="themes" revision="refs/heads/master" />
   <project path="vendor/tmobile/providers/ThemeManager" name="themes-platform-vendor-tmobile-providers-ThemeManager" remote="themes" revision="refs/heads/master" />
@@ -249,6 +248,5 @@
   <project path="vendor/tmobile/products/themes" name="themes-platform-vendor-tmobile-products-themes" remote="themes" revision="refs/heads/master" />
 
   <project path="android" name="CyanogenMod/android" remote="github" />
->>>>>>> a51639bfbbc650f2688e913c995fe4cb200f02b2
 
 </manifest>
