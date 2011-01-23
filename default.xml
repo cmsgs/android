@@ -233,7 +233,7 @@
   <project path="device/samsung/epic" name="cmsgs/android_device_samsung_epic" remote="github" />
   <project path="device/samsung/common" name="cmsgs/android_device_samsung_common" remote="github" revision="master" />
   <project path="device/samsung/galaxytab" name="cmsgs/android_device_samsung_galaxytab" remote="github" />
-  <project path="kernel-tab" name="cmsgs/galaxytab_kernel" remote="github" revision="master" />
+  <project path="kernel-tab" name="cmsgs/galaxytab_kernel" remote="github" />
   <project path="initramfs/galaxytab" name="cmsgs/android_initramfs_galaxytab" remote="github" />
 
   <project path="vendor/samsung" name="cmsgs/proprietary_vendor_samsung" remote="github" revision="froyo" />
